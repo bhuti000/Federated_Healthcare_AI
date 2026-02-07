@@ -21,3 +21,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Project Specific
+backend/uploads/
+cards/
+

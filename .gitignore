@@ -23,7 +23,6 @@ env/
 Thumbs.db
 
 # Project Specific
-backend/uploads/*
-!backend/uploads/.keep
+# backend/uploads/ (Tracked now)
 cards/
 

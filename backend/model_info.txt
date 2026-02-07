@@ -1,0 +1,18 @@
+Model Output Shape: (None, 4)
+
+--- Layers ---
+Layer: conv2d_3, Type: Conv2D
+Layer: batch_normalization_3, Type: BatchNormalization
+Layer: max_pooling2d_3, Type: MaxPooling2D
+Layer: conv2d_4, Type: Conv2D
+Layer: batch_normalization_4, Type: BatchNormalization
+Layer: max_pooling2d_4, Type: MaxPooling2D
+Layer: conv2d_5, Type: Conv2D
+Layer: batch_normalization_5, Type: BatchNormalization
+Layer: max_pooling2d_5, Type: MaxPooling2D
+Layer: flatten_1, Type: Flatten
+Layer: dense_2, Type: Dense
+Layer: dropout_1, Type: Dropout
+Layer: dense_3, Type: Dense
+
+Last Conv Layer: conv2d_5
